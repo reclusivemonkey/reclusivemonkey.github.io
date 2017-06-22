@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ttk on Tokyo Tsushin Kogyo</title>
+    <link>http://www.tokyo-tsushin-kogyo.com/tags/ttk/</link>
+    <description>Recent content in Ttk on Tokyo Tsushin Kogyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 3303</copyright>
+    <lastBuildDate>Fri, 01 Jun 3303 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.tokyo-tsushin-kogyo.com/tags/ttk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/about/</link>
+      <pubDate>Fri, 01 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/about/</guid>
+      <description>Heritage The Tokyo Tsushin Kogyo Corporation has a long heritage of brining cutting edge technology to the masses. It&amp;rsquo;s roots can be traced back to Earth in the Sol system.
+Recent Work We have been working for many years on a device that we hopes will alleviate condition XODY, allowing sufferers to enjoy space flight without the extreme discomfort and difficulties the condition brings.
+Affiliations TTK is not affiliated with any other organisation.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/credits/</link>
+      <pubDate>Fri, 01 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/credits/</guid>
+      <description> Cover image by Nagy László
+Thanks The following people provided invaluable assistance to the Tokyo Tsushin Kogyo Corporation during development;
+ stormyuk Hooplah Tiny_Rick acidburn2k20 Old Duck Jwood13LC Mr Cynical Lngjohnsilver1 JonTheGreat s4nup Nerix Billl Stinja Snowymonk Cadarnfel badems0503 MasterPilotDemon Presto_NL79 ScarletM!4 Greylock WRECKU Novatron-XL UnionCarbide Luckyfiver Mr Fad MAD BIO DUCT Newsh7725 Cobolt gushaines Racetrack Jintosh willowfan Ikeda_kouji JDBooker Tetzmol Clarity Page CLG 6 Paribus Snowbeard calmBlooper  </description>
+    </item>
+    
+  </channel>
+</rss>
