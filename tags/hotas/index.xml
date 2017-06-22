@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotas on Tokyo Tsushin Kogyo</title>
+    <link>http://www.tokyo-tsushin-kogyo.com/tags/hotas/</link>
+    <description>Recent content in Hotas on Tokyo Tsushin Kogyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 3303</copyright>
+    <lastBuildDate>Thu, 07 Jun 3303 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.tokyo-tsushin-kogyo.com/tags/hotas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papa Sierra Four Hardware Index</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/post/a-list-of-hardware-compatible-with-papa-sierra-4/</link>
+      <pubDate>Thu, 07 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/post/a-list-of-hardware-compatible-with-papa-sierra-4/</guid>
+      <description> The purpose of this page is to provide a user tested list of hardware known to work with the Papa Sierra Four. HOTAS are the primary focus but other devices are listed.
+HOTAS  Thrustmaster T.Flight HOTAS 4  Bluetooth Keyboards  Rii i8+BT Mini Keyboard - CHAT ONLY  </description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/credits/</link>
+      <pubDate>Fri, 01 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/credits/</guid>
+      <description> Cover image by Nagy László
+Thanks The following people provided invaluable assistance to the Tokyo Tsushin Kogyo Corporation during development;
+ stormyuk Hooplah Tiny_Rick acidburn2k20 Old Duck Jwood13LC Mr Cynical Lngjohnsilver1 JonTheGreat s4nup Nerix Billl Stinja Snowymonk Cadarnfel badems0503 MasterPilotDemon Presto_NL79 ScarletM!4 Greylock WRECKU Novatron-XL UnionCarbide Luckyfiver Mr Fad MAD BIO DUCT Newsh7725 Cobolt gushaines Racetrack Jintosh willowfan Ikeda_kouji JDBooker Tetzmol Clarity Page CLG 6 Paribus Snowbeard calmBlooper  </description>
+    </item>
+    
+  </channel>
+</rss>
