@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tokyo Tsushin Kogyo</title>
+    <link>http://www.tokyo-tsushin-kogyo.com/tags/</link>
+    <description>Recent content in Tags on Tokyo Tsushin Kogyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 3303</copyright>
+    <lastBuildDate>Wed, 20 Jun 3303 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.tokyo-tsushin-kogyo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/tags/hardware/</link>
+      <pubDate>Wed, 20 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hotas</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/tags/hotas/</link>
+      <pubDate>Thu, 07 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/tags/hotas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ps4</title>
+      <link>http://www.tokyo-tsushin-kogyo.com/tags/ps4/</link>
+      <pubDate>Thu, 07 Jun 3303 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tokyo-tsushin-kogyo.com/tags/ps4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
